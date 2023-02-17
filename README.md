@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game-Python-
+# Rock-Paper-Scissors-Game-Python- :new_moon::receipt::crossed_swords:
 A simple game of Rock Paper Scissors in Python (User vs AI). Python libraries used: random
 
 ## Thoughts on starting this project
@@ -140,4 +140,4 @@ Documentations to type out README.mds:
 
 Have a gif:
 
-![Semantic description of image](https://media.tenor.com/fTTVgygGDh8AAAAM/kitty-cat-sandwich.gif "Image Title")
+![Semantic description of image](https://media.tenor.com/fTTVgygGDh8AAAAM/kitty-cat-sandwich.gif )
