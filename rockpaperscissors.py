@@ -1,5 +1,5 @@
 #Sort of completed, but design can always be improved
-import random
+import random 
 
 def main():
     print("Welcome to a game of Rock, Paper, Scissors!\n")
