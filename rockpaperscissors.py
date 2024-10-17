@@ -1,6 +1,7 @@
 #Sort of completed, but design can always be improved
 import random 
 
+
 def main():
     print("Welcome to a game of Rock, Paper, Scissors!\n")
     print("Type 'r' for rock, 'p' for paper, 's' for scissors\n")
